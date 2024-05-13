@@ -1,0 +1,17 @@
+TUI,Name,Definition
+T019,Congenital Abnormality,"An abnormal structure, or one that is abnormal in size or location, present at birth or evolving over time as a result of a defect in embryogenesis."
+T020,Acquired Abnormality,"An abnormal structure, or one that is abnormal in size or location, found in or deriving from a previously normal structure. Acquired abnormalities are distinguished from diseases even though they may result in pathological functioning (e.g., ""hernias incarcerate"")."
+T033,Finding,"That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself."
+T034,Laboratory or Test Result,"The outcome of a specific test to measure an attribute or to determine the presence, absence, or degree of a condition."
+T041,Mental Process,A physiologic function involving the mind or cognitive processing.
+T046,Pathologic Function,"A disordered process, activity, or state of the organism as a whole, of a body system or systems, or of multiple organs or tissues. Included here are normal responses to a negative stimulus as well as patholologic conditions or states that are less specific than a disease. Pathologic functions frequently have systemic effects."
+T047,Disease or Syndrome,"A condition which alters or interferes with a normal process, state, or activity of an organism. It is usually characterized by the abnormal functioning of one or more of the host's systems, parts, or organs. Included here is a complex of symptoms descriptive of a disorder."
+T048,Mental or Behavioral Dysfunction,A clinically significant dysfunction whose major manifestation is behavioral or psychological. These dysfunctions may have identified or presumed biological etiologies or manifestations.
+T049,Cell or Molecular Dysfunction,"A pathologic function inherent to cells, parts of cells, or molecules."
+T050,Experimental Model of Disease,A representation in a non-human organism of a human disease for the purpose of research into its mechanism or treatment.
+T059,Laboratory Procedure,"A procedure, method, or technique used to determine the composition, quantity, or concentration of a specimen, and which is carried out in a clinical laboratory. Included here are procedures which measure the times and rates of reactions."
+T060,Diagnostic Procedure,"A procedure, method, or technique used to determine the nature or identity of a disease or disorder. This excludes procedures which are primarily carried out on specimens in a laboratory."
+T184,Sign or Symptom,"An observable manifestation of a disease or condition based on clinical judgment, or a manifestation of a disease or condition which is experienced by the patient and reported as a subjective observation."
+T190,Anatomical Abnormality,"An abnormal structure, or one that is abnormal in size or location."
+T191,Neoplastic Process,A new and abnormal growth of tissue in which the growth is uncontrolled and progressive. The growths may be malignant or benign.
+T201,Clinical Attribute,An observable or measurable property or state of an organism of clinical interest.
