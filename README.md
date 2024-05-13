@@ -17,7 +17,16 @@ Our study confirms the significant advantages of LLMs in identifying relevant ph
 - Disease Understanding
 
 
-## Models
+The data used for this project can be found [here](#data), the evaluation methodology is explained [here](#evaluation) and software requiriments in [here](#requirements).
+
+
+## Data
+
+The benchmark for evaluate the models can be found in [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11184173.svg)](https://doi.org/10.5281/zenodo.11184173)
+
+## Evaluation
+
+### LLMs
 
 
 | Model Name                       | Size  | Purpose          | Description                                                                                                                                 |
@@ -28,4 +37,39 @@ Our study confirms the significant advantages of LLMs in identifying relevant ph
 | OpenAI/GPT-3.5-Turbo             | Various | Multipurpose     | A more efficient and faster version of GPT-3, designed for real-time applications with improved performance and lower latency.              |
 | OpenAI/GPT-4                     | Various | Multipurpose     | The next iteration of generative pre-trained transformers, featuring significant improvements in understanding and generating human-like text, capable of more nuanced comprehension and output. |
 
+### Baselines
 
+The baselines script can be foun in [link](./baselines.ipynb). 
+
+| Tool          |     Model Name           |
+|---------------------|-------------------|
+| Falcon 2.0          | BioFalcon         |
+| MetaMap             | MetaMap           |
+| scispaCy            | en_core_sci_sm    | 
+| scispaCy            | en_core_sci_md    | 
+| scispaCy            | en_core_sci_lg    | 
+| scispaCy            | en_core_sci_scibert 
+| GliNER              | gliner_base       | 
+| GliNER              | gliner_medium     | 
+| GliNER              | gliner_large      |
+
+## Requirements 
+
+There are two environments to run the code: one for the baselines ([requirements](./req_baselines.txt)) and another for the LLMs ([requirements](./req_llms.txt)).
+
+To install it execute:
+```
+
+pip install -r requirements.txt
+
+```
+
+
+## Acknowledgments
+
+- This research is based on the paper [-](-), published in 
+
+- If you find it useful you can cite it in:
+```bibtext
+
+```
