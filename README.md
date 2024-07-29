@@ -78,9 +78,16 @@ pip install -r requirements.txt
 
 ## Acknowledgments
 
-- This research is based on the paper [-](-), published in 
-
 - If you find it useful you can cite it in:
 ```bibtext
-
+@inproceedings{10600830,
+  author={García-Barragán, Álvaro and Calatayud, Alberto González and Prieto-Santamaría, Lucía and Robles, Víctor and Menasalvas, Ernestina and Rodríguez, Alejandro},
+  booktitle={2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)}, 
+  title={Step-forward structuring disease phenotypic entities with LLMs for disease understanding}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={213-218},
+  keywords={Text mining;Large language models;Computational modeling;Named entity recognition;Encyclopedias;Internet;Online services;Natural Language Processing (NLP);Information Extraction;Large Language Models (LLMs);Disease Understanding},
+  doi={10.1109/CBMS61543.2024.00043}}
 ```
